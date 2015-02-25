@@ -12,8 +12,8 @@ namespace Actividad3
 					Text = "Hello, Forms!",
 					VerticalOptions = LayoutOptions.EndAndExpand,
 					HorizontalOptions = LayoutOptions.StartAndExpand,
-					BackgroundColor = Color.Green,
-					TextColor = Color.Yellow,
+					BackgroundColor = Color.Yellow,
+					TextColor = Color.Green,
 
 				},
 			};
